@@ -13,5 +13,3 @@ https://developer.mozilla.org/es/docs/Learn/CSS/Building_blocks/Values_and_units
 CSS Grids
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://gridbyexample.com/
-
-hola que tal
